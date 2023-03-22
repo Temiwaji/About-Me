@@ -1,6 +1,6 @@
 # About-Me
 
-- Hello there, I am Nwajiunor
+- Hello there, I am Nwajiunor Edgar
 - I am interested in collaborating on Data Science and Machine Learning
 - Experienced using Ms.Excel, Python, Power BI and SQL
 - I am looking for Data Science entry jobs/internships
