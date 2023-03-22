@@ -1,4 +1,4 @@
-# About-Me
+# About-Me :wave:
 
 - Hello there, I am Nwajiunor Edgar
 - I am interested in collaborating on Data Science and Machine Learning
